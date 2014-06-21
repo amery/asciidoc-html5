@@ -79,7 +79,7 @@ ul > li     { color: #aaa; }
 ul > li > * { color: black; }
 
 .monospaced, code, pre, tt {
-  font-family: "Source Sans Pro", "Courier New", Courier, monospace;
+  font-family: "Source Code Pro", "Courier New", Courier, monospace;
   font-size: inherit;
   padding: 0;
   margin: 0;
