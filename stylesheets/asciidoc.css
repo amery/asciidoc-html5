@@ -29,7 +29,6 @@ a:visited {
 
 em {
   font-style: italic;
-  color: navy;
 }
 
 strong {
@@ -79,10 +78,9 @@ ul, ol, li > p {
 ul > li     { color: #aaa; }
 ul > li > * { color: black; }
 
-.monospaced, code, pre {
+.monospaced, code, pre, tt {
   font-family: "Source Sans Pro", "Courier New", Courier, monospace;
   font-size: inherit;
-  color: navy;
   padding: 0;
   margin: 0;
 }
@@ -177,7 +175,7 @@ div.quoteblock, div.verseblock {
   margin-left: 1.0em;
   margin-right: 10%;
   border-left: 5px solid #f0f0f0;
-  color: #888;
+  color: #527bbd;
 }
 
 div.quoteblock > div.attribution {
