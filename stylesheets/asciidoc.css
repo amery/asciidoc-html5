@@ -2,7 +2,7 @@
 
 /* Default font. */
 body {
-  font-family: Georgia,serif;
+	font-family: 'Droid Serif', serif;
 }
 
 /* Title font. */
@@ -12,7 +12,7 @@ thead, p.table.header,
 #toctitle,
 #author, #revnumber, #revdate, #revremark,
 #footer {
-  font-family: Arial,Helvetica,sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -80,7 +80,7 @@ ul > li     { color: #aaa; }
 ul > li > * { color: black; }
 
 .monospaced, code, pre {
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Source Sans Pro", "Courier New", Courier, monospace;
   font-size: inherit;
   color: navy;
   padding: 0;
